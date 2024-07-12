@@ -4,7 +4,7 @@
 <h3>[Health Partner Demo Video Link]</h3>
 https://youtu.be/qudy1ElsucI
 
-
+<n3>[Health Partner Info]</h3>
 ![슬라이드1](https://github.com/user-attachments/assets/132e56ba-1488-48ac-a889-217095aeffef)
 ![슬라이드2](https://github.com/user-attachments/assets/8cb01327-d8ad-4ca8-ae07-9e8b1573eca9)
 ![슬라이드3](https://github.com/user-attachments/assets/bdc9dbb7-1ff2-42fa-8c3d-a780b9ccbe4c)
