@@ -2,7 +2,7 @@
 <h2>Health-Partner</h2>
 
 <h3>[Health Partner Demo Video]</h3>
-<iframe width="956" height="538" src="https://youtu.be/qudy1ElsucI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ![슬라이드1](https://github.com/user-attachments/assets/132e56ba-1488-48ac-a889-217095aeffef)
 ![슬라이드2](https://github.com/user-attachments/assets/8cb01327-d8ad-4ca8-ae07-9e8b1573eca9)
