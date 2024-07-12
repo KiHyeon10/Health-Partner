@@ -1,7 +1,7 @@
 <h1>캡스톤 디자인 프로젝트</h1>
 <h2>Health-Partner</h2>
 
-<h3><Health Partner Demo Video></h3>
+<h3>[Health Partner Demo Video]</h3>
 <iframe width="956" height="538" src="https://youtu.be/qudy1ElsucI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![슬라이드1](https://github.com/user-attachments/assets/132e56ba-1488-48ac-a889-217095aeffef)
